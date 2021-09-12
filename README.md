@@ -10,5 +10,6 @@ O Backend foi desenvolvido em Spring Boot #Java, contendo as caracteristicas de 
 Enquanto o Frontend foi desenvolvido em ReactJS, Utilizando a liguagem TypeScript e os principais pilares do React: Componentes, Props, Estado. React Hooks: useState, useEffec. Libs: React Router DOM e
 Axios. Publicado na internet através da plataforma do Netlify
 O projeto foi implantado na nuvem, e para isso a plataforma utilizada foi o #Heroku e o #Gihub
+
 Link do Projeto no GitHub: https://github.com/dvbhunter/projeto-sds3
 Link do Projeto na Nuven Heroku: https://sds3-douglasvilasboas.herokuapp.com
